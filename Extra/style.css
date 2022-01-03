@@ -1,0 +1,16 @@
+.nav{
+  width: 64%;
+  margin: 20px auto;
+}
+a{
+    margin-right: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    color: hotpink;
+    padding: 20px;
+    border: 2px solid #063f8a;
+    border-radius: 15px;
+}
+ul{
+    margin-top: 40px;
+}
